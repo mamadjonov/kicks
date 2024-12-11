@@ -1,0 +1,21 @@
+*{
+    font-family: Rubik;
+}
+.home{
+    background-image: url(./assest/image\ 14.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.back{
+    background-image: url(./assest/image\ 31.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.back1{
+    background-image: url(./assest/image\ 31\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
